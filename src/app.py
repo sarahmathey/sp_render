@@ -185,6 +185,7 @@ def update_viz(filtered_df):
 cyto.load_extra_layouts()
 
 app = Dash(__name__)
+server = app.server
 
 # Define sidebar with filter components
 side_bar = html.Div(
