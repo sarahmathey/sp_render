@@ -1,5 +1,5 @@
 dash==2.13.0
-dash_cytoscape==0.6.3
+dash_cytoscape==1.0.2
 networkx==3.1
 numpy==1.26.4
 pandas==2.1.1
